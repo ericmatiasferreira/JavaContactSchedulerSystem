@@ -6,10 +6,10 @@ Este é um código fonte desenvolvido em linguagem Java que visa facilitar a org
 
 > 1° Arquivo: Main.java
 
-2° Arquivo: Agenda.java
+> 2° Arquivo: Agenda.java
 
-3° Arquivo: banner.jpg 
+> 3° Arquivo: banner.jpg 
 
-4° Arquivo: Agenda_Java.zip (Arquivos compactados). 
+> 4° Arquivo: Agenda_Java.zip (Arquivos compactados). 
 
-- Compilar e executar Main.java
+> *- Compilar e executar Main.java*
